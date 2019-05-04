@@ -146,7 +146,7 @@ Since there could be many photos that would have to be processed for a user, thi
 
 "info": {
 "firstImageActivity": <Number - Epoch time of the oldest image uploaded/tagged image of the user>,
-"id": <String, Facebook User ID>,
+"id": <>,
 "name": <mohamed>,
 "last_name":<younis>,
 "short_name":<younis>,
